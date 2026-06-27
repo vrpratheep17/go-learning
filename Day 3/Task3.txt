@@ -1,0 +1,11 @@
+Day 3 - Student Management System (Persistent Storage)
+Goal
+
+Learn:
+
+Reading files
+Writing files
+JSON encoding
+JSON decoding
+Error handling
+Persisting data
